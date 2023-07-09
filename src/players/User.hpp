@@ -1,5 +1,5 @@
-#ifndef MECHANICS_DICE_HPP
-#define MECHANICS_DICE_HPP
+#ifndef PLAYERS_USER_HPP
+#define PLAYERS_USER_HPP
 
 #include <string>
 
